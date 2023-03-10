@@ -1,0 +1,1 @@
+export const tableItemHeaders = [ 'Name', 'Price', 'Quantity', 'Description', 'Created At', 'Updated At' ]
